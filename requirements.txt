@@ -8,7 +8,6 @@ atomicwrites==1.4.0
 attrs==20.3.0
 autopep8==1.5.5
 Babel==2.9.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bcrypt==3.2.0
 binaryornot==0.4.4
 black==20.8b1
@@ -18,7 +17,6 @@ cffi==1.14.5
 chardet==4.0.0
 click==7.1.2
 cloudpickle==1.6.0
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cookiecutter==1.7.2
 cryptography==3.4.7
 cycler==0.10.0
@@ -35,21 +33,16 @@ importlib-metadata==3.10.0
 inflection==0.5.1
 intervaltree==3.1.0
 ipykernel==5.5.3
-ipython @ file:///C:/ci/ipython_1617120911285/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3
 isort==5.8.0
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1606932640618/work
 Jinja2==2.11.3
 jinja2-time==0.2.0
 joblib==1.0.1
 jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
 jupyter-console==6.4.0
-jupyter-core @ file:///C:/ci/jupyter_core_1612213515523/work
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 keyring==23.0.1
@@ -74,7 +67,6 @@ paramiko==2.7.2
 parso==0.7.0
 pathspec==0.8.1
 pexpect==4.8.0
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.2.0
 pluggy==0.13.1
 poyo==0.5.0
@@ -86,7 +78,6 @@ pycodestyle==2.6.0
 pycparser==2.20
 pydocstyle==6.0.0
 pyflakes==2.2.0
-Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
 pylint==2.7.4
 pyls-black==0.4.6
 pyls-spyder==0.3.2
@@ -96,7 +87,6 @@ PyQt5==5.12.3
 PyQt5-sip==12.8.1
 PyQtWebEngine==5.12.1
 pyrsistent==0.17.3
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
 python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
 python-slugify==4.0.1
@@ -118,7 +108,6 @@ scikit-learn==0.24.1
 scipy==1.6.2
 seaborn==0.11.1
 Send2Trash==1.5.0
-six @ file:///C:/ci/six_1605205404068/work
 sklearn==0.0
 snowballstemmer==2.1.0
 sortedcontainers==2.3.0
@@ -139,14 +128,11 @@ threadpoolctl==2.1.0
 three-merge==0.1.1
 tinycss==0.4
 toml==0.10.2
-tornado @ file:///C:/ci/tornado_1606924294691/work
-traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
 typed-ast==1.4.2
 typing-extensions==3.7.4.3
 ujson==4.0.2
 urllib3==1.26.4
 watchdog==1.0.2
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
