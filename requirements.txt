@@ -10,7 +10,9 @@ scikit-learn==0.24.1
 matplotlib==3.4.1
 pandas==1.2.3
 seaborn==0.11.1
-
-
-
+requests==2.25.1
+cryptography==3.4.7
+cycler==0.10.0
+ipykernel==5.5.3
+pickle
 
