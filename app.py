@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 from flask import Flask, request, render_template
 import sklearn
-import jsonify
+
 app = Flask(__name__)
 
 model = pickle.load(open("loan_prediction_model.pkl", "rb"))
